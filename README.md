@@ -1,5 +1,5 @@
 # Odin Recipes
 
-This repository is a project for the Foundations course on [The Odin Project](https://www.theodinproject.com/).
+This is the first project for The Odin Project. It is a simple website with some recipes to practice using some basic HTML.
 
-The project is a simple website of recipes using basic HTML. 
+Link to the lesson: (The Odin Project - Recipes)[https://www.theodinproject.com/lessons/foundations-recipes#project-solution]
